@@ -1,0 +1,13 @@
+/Users/rizaagustiansyah/Documents/Visual Studio/Praktik_IO_1/Praktik_IO_1/bin/Debug/netcoreapp3.1/Praktik_IO_1.deps.json
+/Users/rizaagustiansyah/Documents/Visual Studio/Praktik_IO_1/Praktik_IO_1/bin/Debug/netcoreapp3.1/Praktik_IO_1.runtimeconfig.json
+/Users/rizaagustiansyah/Documents/Visual Studio/Praktik_IO_1/Praktik_IO_1/bin/Debug/netcoreapp3.1/Praktik_IO_1.runtimeconfig.dev.json
+/Users/rizaagustiansyah/Documents/Visual Studio/Praktik_IO_1/Praktik_IO_1/bin/Debug/netcoreapp3.1/Praktik_IO_1.dll
+/Users/rizaagustiansyah/Documents/Visual Studio/Praktik_IO_1/Praktik_IO_1/bin/Debug/netcoreapp3.1/Praktik_IO_1.pdb
+/Users/rizaagustiansyah/Documents/Visual Studio/Praktik_IO_1/Praktik_IO_1/obj/Debug/netcoreapp3.1/Praktik_IO_1.csproj.AssemblyReference.cache
+/Users/rizaagustiansyah/Documents/Visual Studio/Praktik_IO_1/Praktik_IO_1/obj/Debug/netcoreapp3.1/Praktik_IO_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizaagustiansyah/Documents/Visual Studio/Praktik_IO_1/Praktik_IO_1/obj/Debug/netcoreapp3.1/Praktik_IO_1.AssemblyInfoInputs.cache
+/Users/rizaagustiansyah/Documents/Visual Studio/Praktik_IO_1/Praktik_IO_1/obj/Debug/netcoreapp3.1/Praktik_IO_1.AssemblyInfo.cs
+/Users/rizaagustiansyah/Documents/Visual Studio/Praktik_IO_1/Praktik_IO_1/obj/Debug/netcoreapp3.1/Praktik_IO_1.csproj.CoreCompileInputs.cache
+/Users/rizaagustiansyah/Documents/Visual Studio/Praktik_IO_1/Praktik_IO_1/obj/Debug/netcoreapp3.1/Praktik_IO_1.dll
+/Users/rizaagustiansyah/Documents/Visual Studio/Praktik_IO_1/Praktik_IO_1/obj/Debug/netcoreapp3.1/Praktik_IO_1.pdb
+/Users/rizaagustiansyah/Documents/Visual Studio/Praktik_IO_1/Praktik_IO_1/obj/Debug/netcoreapp3.1/Praktik_IO_1.genruntimeconfig.cache
